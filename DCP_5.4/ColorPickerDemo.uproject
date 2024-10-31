@@ -12,17 +12,6 @@
 	],
 	"Plugins": [
 		{
-			"Name": "ModelingToolsEditorMode",
-			"Enabled": true,
-			"TargetAllowList": [
-				"Editor"
-			]
-		},
-		{
-			"Name": "GraphNUnrealPlugin",
-			"Enabled": false
-		},
-		{
 			"Name": "DynamicColorPicker",
 			"Enabled": true
 		}
